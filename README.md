@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://github.com/JC1Joker/JC1Joker"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Welcome to my GitHub JC欢迎您的到来!&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://github.com/JC1Joker/JC1Joker/blob/main/README.md"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Welcome to my GitHub JC欢迎您的到来!&center=true&size=27"> </a> </h1>
 - # 👋 Hi, I’m @JC1Joker
 - > 👀 哈喽，我们见面啦
 - > 🌱 I’m currently learning Java python C Linux
