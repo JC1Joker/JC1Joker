@@ -12,3 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=JC1Joker&theme=xcode" /> </div>
+<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=weixin_53407594"> </div>
