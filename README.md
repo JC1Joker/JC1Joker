@@ -1,5 +1,5 @@
 - # 👋 Hi, I’m @JC1Joker
-- > 👀 I’m interested in ...
+- > 👀 哈喽，我们见面啦
 - > 🌱 I’m currently learning Java python C Linux
 
 <!---
