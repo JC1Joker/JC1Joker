@@ -1,6 +1,6 @@
 - # 👋 Hi, I’m @JC1Joker
 - > 👀 哈喽，我们见面啦
-- > 🌱 I’m currently learning Java python C Linux
+- > 🌱 我是一名热爱计算机喜欢钻研的大二软件工程在校生
 
 <!---
 JC1Joker/JC1Joker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
