@@ -23,5 +23,5 @@ You can click the Preview link to take a look at your changes.
  <div align="center">
    <img src="https://stats.justsong.cn/api/csdn?id=weixin_53407594">
  </div>
-  <img src="https://activity-graph.herokuapp.com/graph?username=JC1Joker&theme=xcode" /> 
+  <img src="https://activity-graph.herokuapp.com/graph?username=JC1Joker&theme=vscode" /> 
 </div>
