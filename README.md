@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);宁静致远;Hello%2C%20technology!&center=true&size=27"></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=print(%22Hello%2CWorld!%22);Hello,World!;Hello%2Ctechnology!&center=true&size=27"></h1>
 
 # 👋 Hi, I’m @JC1Joker
 ## 🌱 一名热爱计算机喜欢钻研的大二软件工程在校生
