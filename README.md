@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 --->
   
   <a><img align="left " height="175px"  alt="my_github_stats" src="https://github-readme-streak-stats.herokuapp.com/?user=JC1Joker"></a>
-  <a><img align="right" alt="GIF" src="https://github.com/Minori-ty/Minori-ty/raw/main/images/code.gif" height="15%" style="max-width: 50%; display: inline-block;" data-target="animated-image.originalImage"></a>
+  <a><img align="right" alt="GIF" src="https://github.com/Minori-ty/Minori-ty/raw/main/images/code.gif" height="255px" style="max-width: 125px; display: inline-block;" data-target="animated-image.originalImage"></a>
   <img height="163px" src="https://github-readme-stats.vercel.app/api?username=JC1Joker&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
    <a><img src="https://stats.justsong.cn/api/csdn?id=weixin_53407594" alt="my_CSDN_stats"/></a>
    <img height="162px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JC1Joker&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
