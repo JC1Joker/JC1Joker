@@ -1,14 +1,17 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=print(%22Hello%2CWorld!%22);Hello,World!;Hello%2Ctechnology!&center=true&size=27"></h1>
-
-# 👋 Hi, I’m @JC1Joker
-## 🌱 一名热爱计算机喜欢钻研的大二软件工程在校生
-<!---
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=print(%22Hello%2CWorld!%22);Hello%2Ctechnology!&center=true&size=27"></h1>
+<!---README exegesis
 JC1Joker/JC1Joker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-   <a><img align="left" alt="GIF" src="https://github.com/Minori-ty/Minori-ty/raw/main/images/code.gif" height="175px" style="max-width: 255px; display: inline-block;" data-target="animated-image.originalImage"></a>
-  <a><img align="right " height="175px"  alt="my_github_stats" src="https://github-readme-streak-stats.herokuapp.com/?user=JC1Joker"></a>
-  <img height="163px" src="https://github-readme-stats.vercel.app/api?username=JC1Joker&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
-   <a><img src="https://stats.justsong.cn/api/csdn?id=weixin_53407594" alt="my_CSDN_stats"/></a>
-   <img height="162px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JC1Joker&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-
+<div align=center>
+  <img align=right alt="GIF" src="https://github.com/Minori-ty/Minori-ty/raw/main/images/code.gif" height="338px" style=" display:" data-target="animated-image.originalImage">
+  <div><img align=center height="175px"  alt="my_github_stats" src="https://github-readme-streak-stats.herokuapp.com/?user=JC1Joker"></div>
+  <div><img height="163px" src="https://github-readme-stats.vercel.app/api?username=JC1Joker&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=fff&icon_color=fff&bg_color=0,00008B,0000FF,00008B&theme=white" /> </div>
+  <h3>Used Language Analysis👇</h3>
+   <hr/>
+   <div><img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JC1Joker&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=fff&icon_color=fff&bg_color=000080&theme=graywhite" />
+   <h3>On Other Platforms👇</h3>
+      <hr/>
+    <div><img src="https://stats.justsong.cn/api/csdn?id=weixin_53407594&theme=tokyonight" alt="my_CSDN_stats"/></div>
+   </div>
+</div>
