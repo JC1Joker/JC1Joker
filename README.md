@@ -5,7 +5,7 @@ JC1Joker/JC1Joker is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 <div align=center>
-  <img align=right alt="GIF" src="https://github.com/Minori-ty/Minori-ty/raw/main/images/code.gif" height="338px" style=" display:" data-target="animated-image.originalImage">
+  <img align=left alt="GIF" src="https://github.com/Minori-ty/Minori-ty/raw/main/images/code.gif" height="338px" style=" display:" data-target="animated-image.originalImage">
   <div><img align=center height="175px"  alt="my_github_stats" src="https://github-readme-streak-stats.herokuapp.com/?user=JC1Joker"></div>
   <div><img height="163px" src="https://github-readme-stats.vercel.app/api?username=JC1Joker&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=fff&icon_color=fff&bg_color=0,00008B,0000FF,00008B&theme=white" /> </div>
   <h3>Used Language Analysis👇</h3>
