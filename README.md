@@ -4,6 +4,9 @@
 JC1Joker/JC1Joker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<ul>
+  <li>⚡python/C</li>
+</ul>
 <div align=center>
   <img align=left alt="GIF" src="https://github.com/Minori-ty/Minori-ty/raw/main/images/code.gif" height="306px" style=" display:" data-target="animated-image.originalImage">
   <div><img align=center height="158px"  alt="my_github_stats" src="https://github-readme-streak-stats.herokuapp.com/?user=JC1Joker"></div>
