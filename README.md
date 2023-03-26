@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=print(%22Hello%2CWorld!%22);Hello%2Ctechnology!&center=true&size=27"></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=print(%22Hello%2CWorld!%22);Hello%2Ctechnology!&center=true&size=27&font=Handlee"></h1>
 
 <!---README exegesis
 JC1Joker/JC1Joker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
