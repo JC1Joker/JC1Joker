@@ -5,7 +5,8 @@ JC1Joker/JC1Joker is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 <ul>
-  <li>⚡python/C</li>
+  <li>⚡python/java</li>
+  <li>I love Full Stack！！！ </li>
 </ul>
 <div align=center>
   <img align=left alt="GIF" src="https://github.com/Minori-ty/Minori-ty/raw/main/images/code.gif" height="306px" style=" display:" data-target="animated-image.originalImage">
